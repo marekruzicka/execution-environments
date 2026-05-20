@@ -1,0 +1,2 @@
+freetds-devel [platform:rpm]
+freetds-dev [platform:dpkg]
